@@ -1,0 +1,28 @@
+body{
+  font: italic bold 12px/2 cursive;
+  background-color: #204051;
+}
+
+.right{
+  background-color: #a4c5c6;
+}
+
+.left{
+  background-color: #a4c5c6;
+}
+
+
+hr {
+  display: block;
+  border-style: none;
+  border-top-style: dotted;
+  width: 20%;
+  border-color: grey;
+  border-width: 4px;
+}
+h1{
+  color: #005082;
+}
+h3{
+  color: #005082;
+}
